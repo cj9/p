@@ -1,0 +1,3 @@
+[submodule "ccc"]
+	path = ccc
+	url = git@github.com:cj9/j.git
